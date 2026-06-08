@@ -1,0 +1,13 @@
+/home/muruga/scripts/admintask
+/home/muruga/scripts/ping_for
+/home/muruga/scripts/backup
+/home/muruga/scripts/filecreation
+/home/muruga/scripts/filerename
+/home/muruga/scripts/case
+/home/muruga/scripts/for_loop
+/home/muruga/scripts/do_while
+/home/muruga/scripts/if_else
+/home/muruga/scripts/for_filecreation
+/home/muruga/scripts/ping_if
+/home/muruga/scripts/createfile
+/home/muruga/scripts/removefile
